@@ -1,0 +1,8 @@
+clientId,workloadId,type,geofencing,domainName,ipAddress,port,gpu,minRam,maxRam,minCpu,maxCpu
+Cl12,IBMxyz,any,False,xyz,1.2.3.4,3306,4GB,20GB,30GB,1,2
+Cl12,IBMxyz,container,False,xyz,110.235.228.34,3306,5GB,20GB,25GB,2,3
+Cl12,IBMxyz,container,False,xyz,110.235.228.34,3306,5GB,20GB,25GB,2,3
+Cl12,IBMxyz,container,False,xyz,110.235.228.34,3306,5GB,20GB,25GB,2,3
+Cl12,IBMxyz,container,False,xyz,110.235.228.34,3306,5GB,20GB,25GB,2,3
+Cl12,IBMxyz,container,False,xyz,110.235.228.34,3306,5GB,20GB,25GB,2,3
+Cl12,IBMxyz,vm,False,xyz,110.235.228.34,3306,5GB,20GB,25GB,2,3
